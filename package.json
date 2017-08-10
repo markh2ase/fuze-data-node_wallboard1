@@ -1,0 +1,31 @@
+{
+  "name": "apilearning",
+  "version": "0.1.0",
+  "description": "apilearning",
+  "main": "calls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "nodeclipse",
+    "unirest"
+  ],
+  "dependencies": [
+      "node-fetch",
+      "http",
+      "path",
+      "routes",
+      "iso8601-convert",
+      "urlencode",
+      "hashmap",
+      "express",
+      "unirest"
+  ],
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
+
